@@ -222,6 +222,7 @@ h5 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex-grow: 1;
 }
 
 .cta-qa {
@@ -281,5 +282,6 @@ h5 {
     flex-direction: column;
     justify-content: center;
     background-color: black;
+    flex-shrink: 0;
 }
 
